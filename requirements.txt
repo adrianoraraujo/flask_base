@@ -1,0 +1,7 @@
+flask
+bs4
+requests
+xlwt
+xlrd
+flask_sqlalchemy
+pymysql
